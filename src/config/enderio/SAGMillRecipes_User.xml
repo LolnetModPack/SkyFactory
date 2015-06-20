@@ -103,5 +103,52 @@ found in the core file.
   </grindingBalls>
  --> 
 
+ <recipeGroup name="Nugget">
+  <recipe name="Helmet Nuggets" energyCost="3000"> 
+      <input>
+        <itemStack modID="minecraft" itemName="diamond_helmet"/>
+      </input>
+      <output>
+        <itemStack modID="Translocator" itemName="diamondNugget"  number="5"/>
+      </output>
+    </recipe>
+	
+	  <recipe name="Chestplate Nuggets" energyCost="3000"> 
+      <input>
+        <itemStack modID="minecraft" itemName="diamond_chestplate"/>
+      </input>
+      <output>
+        <itemStack modID="Translocator" itemName="diamondNugget"  number="8"/>
+      </output>
+    </recipe>
+	
+	  <recipe name="Leggings Nuggets" energyCost="3000"> 
+      <input>
+        <itemStack modID="minecraft" itemName="diamond_leggings"/>
+      </input>
+      <output>
+        <itemStack modID="Translocator" itemName="diamondNugget"  number="7"/>
+      </output>
+    </recipe>
+		
+	  <recipe name="Boots Nuggets" energyCost="3000"> 
+      <input>
+        <itemStack modID="minecraft" itemName="diamond_boots"/>
+      </input>
+      <output>
+        <itemStack modID="Translocator" itemName="diamondNugget"  number="4"/>
+      </output>
+    </recipe>
+		
+	  <recipe name="Horse Nuggets" energyCost="3000"> 
+      <input>
+        <itemStack modID="minecraft" itemName="diamond_horse_armor"/>
+      </input>
+      <output>
+        <itemStack modID="Translocator" itemName="diamondNugget"  number="6"/>
+      </output>
+    </recipe>
+	
+</recipeGroup>
 
 </SAGMillRecipes>

@@ -57,12 +57,16 @@
         "Natura:tree/3",
         "Natura:willow/0",
         "Oak_Wood_Planks",
+        "Thaumcraft:blockMagicalLog/0",
+        "Thaumcraft:blockMagicalLog/1",
         "minecraft:fence",
         "minecraft:leaves",
         "minecraft:leaves2",
         "minecraft:log",
         "minecraft:log2",
-        "minecraft:planks"
+        "minecraft:planks",
+        "witchery:witchleaves",
+        "witchery:witchlog"
       ]
     },
     "crook": {
@@ -180,6 +184,7 @@
         "BiomesOPlenty:gemOre/10",
         "BiomesOPlenty:gemOre/12",
         "BiomesOPlenty:gemOre/14",
+        "DraconicEvolution:draconiumOre/0",
         "TConstruct:GravelOre/0",
         "TConstruct:GravelOre/1",
         "TConstruct:GravelOre/2",
@@ -191,6 +196,14 @@
         "TConstruct:SearedBrick/3",
         "TConstruct:SearedBrick/4",
         "TConstruct:SearedBrick/5",
+        "Thaumcraft:blockCustomOre/0",
+        "Thaumcraft:blockCustomOre/1",
+        "Thaumcraft:blockCustomOre/2",
+        "Thaumcraft:blockCustomOre/3",
+        "Thaumcraft:blockCustomOre/4",
+        "Thaumcraft:blockCustomOre/5",
+        "Thaumcraft:blockCustomOre/6",
+        "Thaumcraft:blockCustomOre/7",
         "ThermalFoundation:Ore/0",
         "ThermalFoundation:Ore/1",
         "ThermalFoundation:Ore/2",
@@ -200,6 +213,7 @@
         "ThermalFoundation:Ore/6",
         "appliedenergistics2:tile.OreQuartz/0",
         "appliedenergistics2:tile.OreQuartzCharged/0",
+        "magicalcrops:magicalcrops_MinicioOre/0",
         "minecraft:coal_ore",
         "minecraft:cobblestone_wall",
         "minecraft:diamond_ore",
@@ -241,7 +255,8 @@
         "minecraft:tallgrass",
         "minecraft:vine",
         "minecraft:web",
-        "minecraft:wool"
+        "minecraft:wool",
+        "witchery:witchleaves"
       ]
     },
     "shovel": {

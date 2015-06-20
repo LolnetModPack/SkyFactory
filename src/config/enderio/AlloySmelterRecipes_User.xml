@@ -26,6 +26,71 @@ ore dictionary.
 -->
 
 <AlloySmelterRecipes>
+  <recipeGroup name="EnderIO"> 
   
+    <recipe name="Dark Steel 1" energyCost="40000">
+      <input>
+        <itemStack modID="EnderIO" itemName="item.darkSteel_helmet" />
+      </input>
+      <output>
+        <itemStack modID="EnderIO" itemName="itemAlloy" itemMeta="6" number="5" />
+      </output>
+    </recipe>
+  
+    <recipe name="Dark Steel 2" energyCost="40000">
+      <input>
+        <itemStack modID="EnderIO" itemName="item.darkSteel_chestplate" />
+      </input>
+      <output>
+        <itemStack modID="EnderIO" itemName="itemAlloy" itemMeta="6" number="8" />
+      </output>
+    </recipe>
+	  
+    <recipe name="Dark Steel 3" energyCost="40000">
+      <input>
+        <itemStack modID="EnderIO" itemName="item.darkSteel_leggings" />
+      </input>
+      <output>
+        <itemStack modID="EnderIO" itemName="itemAlloy" itemMeta="6" number="7" />
+      </output>
+    </recipe>
+	  
+    <recipe name="Dark Steel 4" energyCost="40000">
+      <input>
+        <itemStack modID="EnderIO" itemName="item.darkSteel_boots" />
+      </input>
+      <output>
+        <itemStack modID="EnderIO" itemName="itemAlloy" itemMeta="6" number="4" />
+      </output>
+    </recipe>
+	  
+    <recipe name="Dark Steel 5" energyCost="40000">
+      <input>
+        <itemStack modID="EnderIO" itemName="item.darkSteel_sword" />
+      </input>
+      <output>
+        <itemStack modID="EnderIO" itemName="itemAlloy" itemMeta="6" number="2" />
+      </output>
+    </recipe>
+	  
+    <recipe name="Dark Steel 6" energyCost="40000">
+      <input>
+        <itemStack modID="EnderIO" itemName="item.darkSteel_pickaxe" />
+      </input>
+      <output>
+        <itemStack modID="EnderIO" itemName="itemAlloy" itemMeta="6" number="3" />
+      </output>
+    </recipe>
+	  
+    <recipe name="Dark Steel 7" energyCost="40000">
+      <input>
+        <itemStack modID="EnderIO" itemName="item.darkSteel_axe" />
+      </input>
+      <output>
+        <itemStack modID="EnderIO" itemName="itemAlloy" itemMeta="6" number="3" />
+      </output>
+    </recipe>
+	
+  </recipeGroup>
 </AlloySmelterRecipes>  
 
